@@ -1,0 +1,6 @@
+framework module UIKitBotao {
+  umbrella header "UIKitBotao-umbrella.h"
+
+  export *
+  module * { export * }
+}
