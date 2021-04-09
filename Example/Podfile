@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'UIKitBotao_Example' do
+  pod 'UIKitBotao', :path => '../'
+
+  target 'UIKitBotao_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
