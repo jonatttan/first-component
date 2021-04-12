@@ -9,3 +9,4 @@ public struct ButtonTitle {
     public static let tituloNormal = "Passeio?"
     public static let tituloClick = "Bora!"
 }
+

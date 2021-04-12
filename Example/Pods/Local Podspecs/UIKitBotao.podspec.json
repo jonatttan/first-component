@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of UIKitBotao.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Jonattan/UIKitBotao",
+  "homepage": "https://github.com/Jonatttan/first-component",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Jonattan": "jonattan.sousa@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Jonattan/UIKitBotao.git",
+    "git": "https://github.com/Jonatttan/first-component.git",
     "tag": "0.1.0"
   },
   "platforms": {
